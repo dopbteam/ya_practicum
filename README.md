@@ -96,28 +96,28 @@
   <br>
   Сборный проект - 3
   <br>
-  24.07.2023 - 13.08.2023
+  14.08.2023 - 27.08.2023
 </li>
   <li>
   <b>Прогнозирование заказов такси</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
   <br>
   Временные ряды
   <br>
-  24.07.2023 - 13.08.2023
+  04.09.2023 - 17.09.2023
 </li>
   <li>
   <b>Проект для Викишоп</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
   <br>
   Машинное обучение для текстов
   <br>
-  24.07.2023 - 13.08.2023
+  18.09.2023 - 08.10.2023
 </li>
   <li>
   <b>Сетевой супермаркет Хлеб-Соль</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
   <br>
   Компьютерное зрение
   <br>
-  24.07.2023 - 13.08.2023
+  09.10.2023 - 29.10.2023
 </li>
   <li>
   <b>Телеком</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
