@@ -85,35 +85,35 @@
   19.06.2023 - 02.07.2023
 </li>
   <li>
-  <b>123</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <b>Прогнозирование температуры звезды</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
   <br>
   Модели и алгоритмы в машинном обучении
   <br>
   24.07.2023 - 13.08.2023
 </li>
   <li>
-  <b>123</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <b>Предсказание ДТП</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
   <br>
   Сборный проект - 3
   <br>
   24.07.2023 - 13.08.2023
 </li>
   <li>
-  <b>123</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <b>Прогнозирование заказов такси</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
   <br>
   Временные ряды
   <br>
   24.07.2023 - 13.08.2023
 </li>
   <li>
-  <b>123</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <b>Проект для Викишоп</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
   <br>
   Машинное обучение для текстов
   <br>
   24.07.2023 - 13.08.2023
 </li>
   <li>
-  <b>123</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <b>Сетевой супермаркет Хлеб-Соль</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
   <br>
   Компьютерное зрение
   <br>
