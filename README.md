@@ -84,4 +84,46 @@
   <br>
   19.06.2023 - 02.07.2023
 </li>
+  <li>
+  <b>123</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <br>
+  Модели и алгоритмы в машинном обучении
+  <br>
+  24.07.2023 - 13.08.2023
+</li>
+  <li>
+  <b>123</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <br>
+  141414
+  <br>
+  24.07.2023 - 13.08.2023
+</li>
+  <li>
+  <b>123</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <br>
+  151515
+  <br>
+  24.07.2023 - 13.08.2023
+</li>
+  <li>
+  <b>123</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <br>
+  16161616
+  <br>
+  24.07.2023 - 13.08.2023
+</li>
+  <li>
+  <b>123</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <br>
+  17171717
+  <br>
+  24.07.2023 - 13.08.2023
+</li>
+  <li>
+  <b>Телеком</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/7.%D0%93%D0%BB%D0%B0%D0%B2%D0%A0%D0%BE%D1%81%D0%93%D0%BE%D1%81%D0%9D%D0%B5%D1%84%D1%82%D1%8C">перейти</a>]
+  <br>
+  Выпускной проект
+  <br>
+  13.11.2023 - 27.11.2023
+</li>
 </ol>
