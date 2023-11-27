@@ -100,7 +100,6 @@
 </li>
   <li>
   <b>Прогнозирование заказов такси</b> - [<a href = "https://github.com/dopbteam/ya_practicum/tree/main/15.%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D1%82%D0%B0%D0%BA%D1%81%D0%B8">перейти</a>]
-  <b>Прогнозирование заказов такси</b> - [<a href = "">перейти</a>]
   <br>
   Временные ряды
   <br>
